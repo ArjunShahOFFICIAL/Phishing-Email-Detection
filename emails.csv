@@ -1,0 +1,16 @@
+text,label
+"Congratulations! You won a free iPhone. Click here now!",phishing
+"Your bank account has been suspended. Verify immediately.",phishing
+"Claim your free reward by visiting this link.",phishing
+"Urgent! Update your password immediately.",phishing
+"You have won lottery money. Send your details now.",phishing
+"Meeting scheduled for tomorrow at 10 AM.",safe
+"Please find attached the project report.",safe
+"Let's have lunch together tomorrow.",safe
+"Reminder: Your assignment submission is due today.",safe
+"Team meeting has been rescheduled to Monday.",safe
+"Click this link to reset your account password.",phishing
+"Limited time offer! Buy now and save big.",phishing
+"Your package has been shipped successfully.",safe
+"Can we discuss the presentation later?",safe
+"Verify your email account to avoid suspension.",phishing
